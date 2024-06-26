@@ -1,24 +1,37 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
+import { Route, Routes, Link } from 'react-router-dom';
+
 import './App.css';
 
 function App() {
+  const [courses, setCourses] = useState([]);
+
+  useEffect(() => {
+    fetch('/watch.json')
+      .then((response) => response.json())
+      .then((data) => setWatch(data));
+  }, []);
+
+  // const addCourse = (course) => {
+  //   setCourses([...courses, { ...course, id: courses.length + 1 }]);
+  // };
+
+  // const updateCourse = (updatedCourse) => {
+  //   setCourses(courses.map(course => course.id === updatedCourse.id ? updatedCourse : course));
+  // };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div className='App'> 
+        <nav>
+          <Link to="/">Home</Link>
+          <Link to="/watch">Add New Course</Link>
+        </nav>
+        <Routes>
+          <Route path="/" element={<Courses courses={courses} setCourses={setCourses} />} />
+          <Route path="/add-course" element={<AddCourse addCourse={addCourse} />} />
+          <Route path="/update-course/:id" element={<UpdateCourse courses={courses} updateCourse={updateCourse} />} />
+        </Routes>
+      </div>
   );
 }
 
