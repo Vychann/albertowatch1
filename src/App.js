@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { Route, Routes, Link } from 'react-router-dom';
-
+import Clocks from './components/Clocks';
 import './App.css';
 
 function App() {
-  const [courses, setCourses] = useState([]);
+  const [watch, setWatch] = useState([]);
 
   useEffect(() => {
     fetch('/watch.json')
