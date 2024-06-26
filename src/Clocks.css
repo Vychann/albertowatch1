@@ -1,0 +1,67 @@
+/* src/Clocks.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #001f3f;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header .menu {
+    font-size: 14px;
+}
+
+header .menu a {
+    color: white;
+    text-decoration: none;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.clock-item {
+    background-color: white;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 200px;
+}
+
+.clock-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.clock-item h3 {
+    font-size: 18px;
+    color: #333;
+}
+
+.clock-item p {
+    font-size: 14px;
+    color: #666;
+}
+
+.clock-item .price {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+}
