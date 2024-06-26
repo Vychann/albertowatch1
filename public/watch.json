@@ -1,4 +1,464 @@
-[
-    {},
-    {},
-]
+{
+    "watches": [
+        {
+            "brand": "Rolex",
+            "models": [
+                {
+                    "model": "Submariner",
+                    "referenceNumber": "114060",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "300m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$8,100"
+                },
+                {
+                    "model": "Daytona",
+                    "referenceNumber": "116500LN",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "100m",
+                    "dialColor": "White",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$13,150"
+                },
+                {
+                    "model": "Datejust",
+                    "referenceNumber": "126334",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "41mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Blue",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$9,650"
+                },
+                {
+                    "model": "GMT-Master II",
+                    "referenceNumber": "126710BLRO",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$11,700"
+                },
+                {
+                    "model": "Yacht-Master",
+                    "referenceNumber": "126622",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Rhodium",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$12,000"
+                },
+                {
+                    "model": "Explorer",
+                    "referenceNumber": "214270",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "39mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$6,550"
+                },
+                {
+                    "model": "Oyster Perpetual",
+                    "referenceNumber": "126000",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "36mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Green",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$5,600"
+                },
+                {
+                    "model": "Sea-Dweller",
+                    "referenceNumber": "126600",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "43mm",
+                    "waterResistance": "1220m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$12,000"
+                },
+                {
+                    "model": "Milgauss",
+                    "referenceNumber": "116400GV",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$8,200"
+                },
+                {
+                    "model": "Sky-Dweller",
+                    "referenceNumber": "326934",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "42mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Blue",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$14,400"
+                }
+            ]
+        },
+        {
+            "brand": "Patek Philippe",
+            "models": [
+                {
+                    "model": "Nautilus",
+                    "referenceNumber": "5711/1A-010",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "120m",
+                    "dialColor": "Blue",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$30,000"
+                },
+                {
+                    "model": "Aquanaut",
+                    "referenceNumber": "5167A-001",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "120m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Rubber",
+                    "price": "$20,000"
+                },
+                {
+                    "model": "Calatrava",
+                    "referenceNumber": "5227J-001",
+                    "movement": "Automatic",
+                    "caseMaterial": "Yellow Gold",
+                    "caseDiameter": "39mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Ivory",
+                    "braceletMaterial": "Leather",
+                    "price": "$29,000"
+                },
+                {
+                    "model": "Complications Annual Calendar",
+                    "referenceNumber": "5205G-001",
+                    "movement": "Automatic",
+                    "caseMaterial": "White Gold",
+                    "caseDiameter": "40mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Leather",
+                    "price": "$45,000"
+                },
+                {
+                    "model": "Grand Complications",
+                    "referenceNumber": "5270R-001",
+                    "movement": "Manual Winding",
+                    "caseMaterial": "Rose Gold",
+                    "caseDiameter": "41mm",
+                    "waterResistance": "30m",
+                    "dialColor": "White",
+                    "braceletMaterial": "Leather",
+                    "price": "$165,000"
+                },
+                {
+                    "model": "Twenty~4",
+                    "referenceNumber": "4910/10A-012",
+                    "movement": "Quartz",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "25mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Grey",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$12,000"
+                },
+                {
+                    "model": "Golden Ellipse",
+                    "referenceNumber": "5738R-001",
+                    "movement": "Automatic",
+                    "caseMaterial": "Rose Gold",
+                    "caseDiameter": "34.5mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Blue",
+                    "braceletMaterial": "Leather",
+                    "price": "$35,000"
+                },
+                {
+                    "model": "Ellipse D'Or",
+                    "referenceNumber": "3738/100J-012",
+                    "movement": "Manual Winding",
+                    "caseMaterial": "Yellow Gold",
+                    "caseDiameter": "31.1mm",
+                    "waterResistance": "30m",
+                    "dialColor": "White",
+                    "braceletMaterial": "Leather",
+                    "price": "$30,000"
+                },
+                {
+                    "model": "Gondolo",
+                    "referenceNumber": "5124G-001",
+                    "movement": "Manual Winding",
+                    "caseMaterial": "White Gold",
+                    "caseDiameter": "33.4mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Silver",
+                    "braceletMaterial": "Leather",
+                    "price": "$29,000"
+                },
+                {
+                    "model": "World Time",
+                    "referenceNumber": "5230R-001",
+                    "movement": "Automatic",
+                    "caseMaterial": "Rose Gold",
+                    "caseDiameter": "38.5mm",
+                    "waterResistance": "30m",
+                    "dialColor": "White",
+                    "braceletMaterial": "Leather",
+                    "price": "$50,000"
+                }
+            ]
+        },
+        {
+            "brand": "Seiko",
+            "models": [
+                {
+                    "model": "Prospex",
+                    "referenceNumber": "SBDC029",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "44mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Blue",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$1,200"
+                },
+                {
+                    "model": "Presage",
+                    "referenceNumber": "SSA343J1",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40.5mm",
+                    "waterResistance": "50m",
+                    "dialColor": "White",
+                    "braceletMaterial": "Leather",
+                    "price": "$500"
+                },
+                {
+                    "model": "Astron",
+                    "referenceNumber": "SSH019J1",
+                    "movement": "Solar",
+                    "caseMaterial": "Titanium",
+                    "caseDiameter": "42.9mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Titanium",
+                    "price": "$2,200"
+                },
+                {
+                    "model": "Seiko 5",
+                    "referenceNumber": "SNK809",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "37mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Nylon",
+                    "price": "$100"
+                },
+                {
+                    "model": "Alpinist",
+                    "referenceNumber": "SARB017",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "39.5mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Green",
+                    "braceletMaterial": "Leather",
+                    "price": "$450"
+                },
+                {
+                    "model": "Tuna",
+                    "referenceNumber": "SBBN031",
+                    "movement": "Quartz",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "47.7mm",
+                    "waterResistance": "300m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Rubber",
+                    "price": "$1,000"
+                },
+                {
+                    "model": "Cocktail Time",
+                    "referenceNumber": "SRPB43",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "40.5mm",
+                    "waterResistance": "50m",
+                    "dialColor": "Silver",
+                    "braceletMaterial": "Leather",
+                    "price": "$350"
+                },
+                {
+                    "model": "Monster",
+                    "referenceNumber": "SRPD25",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "42.4mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Blue",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$450"
+                },
+                {
+                    "model": "Samurai",
+                    "referenceNumber": "SRPB51",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "43.8mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$300"
+                },
+                {
+                    "model": "Baby Tuna",
+                    "referenceNumber": "SRP637",
+                    "movement": "Automatic",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "47mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$300"
+                }
+            ]
+        },
+        {
+            "brand": "Citizen",
+            "models": [
+                {
+                    "model": "Promaster Diver",
+                    "referenceNumber": "BN0150-28E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "44mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Rubber",
+                    "price": "$275"
+                },
+                {
+                    "model": "Chandler",
+                    "referenceNumber": "AT0200-05E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "39mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Canvas",
+                    "price": "$175"
+                },
+                {
+                    "model": "Nighthawk",
+                    "referenceNumber": "BJ7000-52E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "42mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$350"
+                },
+                {
+                    "model": "Satellite Wave",
+                    "referenceNumber": "CC3005-85E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Titanium",
+                    "caseDiameter": "44mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Titanium",
+                    "price": "$1,000"
+                },
+                {
+                    "model": "Brycen",
+                    "referenceNumber": "BL5400-52A",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "48mm",
+                    "waterResistance": "100m",
+                    "dialColor": "Silver",
+                    "braceletMaterial": "Stainless Steel",
+                    "price": "$350"
+                },
+                {
+                    "model": "Endeavor",
+                    "referenceNumber": "BJ7000-08E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "45mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Rubber",
+                    "price": "$500"
+                },
+                {
+                    "model": "Eco-Drive One",
+                    "referenceNumber": "AR5024-01E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Cermet",
+                    "caseDiameter": "39mm",
+                    "waterResistance": "30m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Leather",
+                    "price": "$4,000"
+                },
+                {
+                    "model": "Altichron",
+                    "referenceNumber": "BN5030-06E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Titanium",
+                    "caseDiameter": "50mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Rubber",
+                    "price": "$850"
+                },
+                {
+                    "model": "Titanium",
+                    "referenceNumber": "BM7360-82A",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Titanium",
+                    "caseDiameter": "41mm",
+                    "waterResistance": "100m",
+                    "dialColor": "White",
+                    "braceletMaterial": "Titanium",
+                    "price": "$350"
+                },
+                {
+                    "model": "Aqualand",
+                    "referenceNumber": "BN2029-01E",
+                    "movement": "Eco-Drive",
+                    "caseMaterial": "Stainless Steel",
+                    "caseDiameter": "53mm",
+                    "waterResistance": "200m",
+                    "dialColor": "Black",
+                    "braceletMaterial": "Rubber",
+                    "price": "$950"
+                }
+            ]
+        }
+    ]
+}
