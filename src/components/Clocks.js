@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Clocks.css';
+import "Clocks.css"
 
 const initialClocks = [
   { src: 'https://cdn11.bigcommerce.com/s-qh06nmrb4v/images/stencil/190x250/products/323/2876/QXM381BRHA-NB__24594.1655312672.png?c=2', alt: 'ATLAS MIM CLOCK', price: '$400.00' },
