@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "name": "CARTIER LIBRE WATCH ",
+    "price": "$300,000",
+    "description": "CARTIER",
+    "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LA PANTHÈRE DE CARTIER WATCH",
+    "price": "$268,000",
+    "description": "CARTIER",
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PASHA DE CARTIER SKELETON WATCH",
+    "price": "$145,000",
+    "description": "CARTIER",
+    "image": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PANTHÈRE DE CARTIER WATCH",
+    "price": "$134,000",
+    "description": "CARTIER",
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "TANK MUST WATCH",
+    "price": "$121,000",
+    "description": "CARTIER",
+    "image": "/images/5.jpg"
+  },
+   
+  {"id": 7,
+  "name": "DEFY SKYLINE TOURBILL",
+  "price": "$55,000",
+  "description": "ZENITH",
+  "image": "/images/7.jpp"
+  },
+  {
+    "id": 8,
+    "name": "DEFY REVIVAL",
+    "price": "$45,000",
+    "description": "ZENITH",
+    "image": "/images/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "CHRONOMASTER SPORT",
+    "price": "$41,000",
+    "description": "ZENITH",
+    "image": "/images/9.jpg"
+  },
+  { 
+    "id": 10,
+    "name": "DEFY SKYLINE CHRONOGRAPH",
+    "price": "$65,000",
+    "description": "ZENITH",
+    "image": "/images/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "DEFY SKYLINE SKELETON WHITE CERAMIC",
+    "price": "$43,000",
+    "description": "ZENITH",
+    "image": "/images/11.jpg"
+  },
+      
+  
+  {
+    "id": 13,
+    "name": "CONSTELLATION",
+    "price": "$41,700",
+    "description": "OMEGA",
+    "image": "/images/13.jpg"
+  },
+ {
+    "id": 14,
+    "name": "DE VILLE LADYMATIC",
+    "price": "$44,900",
+    "description": "OMEGA",
+    "image": "/images/14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "SPEEDMASTER 38",
+    "price": "$40,200",
+    "description": "OMEGA",
+    "image": "/images/15.jpg"
+},
+{
+  "id": 16,
+  "name": "SEAMASTER PLANET OCEAN 600M",
+  "price": "$54,700",
+  "description": "OMEGA",
+  "image": "/images/16.jpg"
+},
+{
+  "id": 17,
+  "name": "SPEEDMASTER DARK SIDE OF THE MOON",
+  "price": "$49,000",
+  "description": "OMEGA",
+  "image": "/images/17.jpg"
+},
+ 
+{
+    "id": 19,
+  "name": "UNICO KING GOLD  ",
+    "price": "$41,600",
+    "description": "HUBLOT",
+    "image": "/images/19.jpg"
+},
+{
+    "id": 20,
+  "name": "ONE CLICK KING GOLD WHITE DIAMONDS",
+    "price": "$45,600",
+    "description": "HUBLOT",
+    "image": "/images/20.jpg"
+},
+{
+    "id": 21,
+  "name": "UNICO ESSENTIAL GREY",
+    "price": "$71,600",
+    "description": "HUBLOT",
+    "image": "/images/21.jpg"
+},
+{
+    "id": 22,
+  "name": "UNICO TITANIUM BLUE CERAMIC",
+    "price":" $48,600",
+    "description": "HUBLOT",
+    "image": "/images/22.jpg"
+},
+{
+    "id": 23,
+  "name": "ORIGINAL TITANIUM",
+    "price": "$81,600",
+    "description": "HUBLOT",
+    "image": "/images/23.jpg"
+},
+
+{
+    "id": 24,
+  "name": "PATRIMONY SELF-WIND",
+    "price": "$99,700",
+    "description": "VACHERON CONSTANTIN",
+    "image": "/images/24.jpg"
+},
+{
+    "id": 25,
+"name": "ÉGÉRIE MOON PHASE",
+    "price": "$85,700",
+    "description": "VACHERON CONSTANTIN",
+    "image": "/images/25.jpg"
+},
+{
+    "id": 26,
+  "name": "TRADITIONNELLE MOON PHASE",
+    "price": "$82,700",
+    "description": "VACHERON CONSTANTIN",
+    "image": "/images/26.jpg"
+},
+{
+    "id": 27,
+  "name": "ÉGÉRIE CREATIVE EDITION  ",
+    "price": "$89,700",
+    "description": "VACHERON CONSTANTIN",
+    "image": "/images/27.jpg"
+},
+{
+    "id": 28,
+  "name": "PATRIMONY SELF-WINDING JEWELLERY",
+    "price": "$109,000",
+    "description": "VACHERON CONSTANTIN",
+    "image": "/images/28.jpg"
+},
+{
+    "id": 29,
+  "name": "DAVAS' DREAM WATCH",
+    "price": "$99,000",
+    "description": "BULGARI",
+    "image": "/images/29.jpg"
+},
+{
+    "id": 30,
+  "name": "DIVAS' DREAM WATCH",
+    "price": "$84,000",
+    "description": "BULGARI",
+    "image": "/images/30.jpg"
+},
+{
+    "id": 31,
+  "name": "SERPENTI TUBOGAS WATCH",
+    "price": "$67,000",
+    "description": "BULGARI",
+    "image": "/images/31.jpg"
+},
+{
+    "id": 32,
+  "name": "SERPENTI SPIGA WATCH ",
+    "price":" $53,000",
+    "description": "BULGARI",
+    "image": "/images/32.jpg"
+},
+{
+    "id": 33,
+  "name": "OCTO FINISSIMO WATCH",
+    "price": "$50,000",
+    "description": "BULGARI",
+    "image": "/images/33.jpg"
+}
+
+]

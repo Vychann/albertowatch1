@@ -1,0 +1,12 @@
+.slider-container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .slider-container img {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  

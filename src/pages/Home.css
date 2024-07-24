@@ -1,0 +1,24 @@
+.home {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-header {
+  background-color: #007bff;
+  color: white;
+  padding: 50px 20px;
+  margin-bottom: 20px;
+}
+
+.shop-now-button {
+  background-color: white;
+  color: #007bff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.shop-now-button:hover {
+  background-color: #e0e0e0;
+}
